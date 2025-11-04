@@ -226,4 +226,6 @@ print(sum([int(l<=25) for l in sentence_len]))
 
 [ ] 각 코드 밑에 있는 미션을 블로그글로 정리해주세요.
 
-[ ] colab에서 코드를 보지 않고 실습하며, .ipynb형태로 github에 올려주세요.
+[ ] 300자 이내 WIL 작성하기
+
+[ ] 코드를 보지 않고 실습하며, .ipynb형태로 github에 올려주세요.
